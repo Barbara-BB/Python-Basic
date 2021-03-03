@@ -1,0 +1,16 @@
+n1 = int(input("Digite o primeiro número: "))
+n2 = int(input("Digite o segundo número: "))
+
+#Sem Recursão
+while n2 != 0:
+	n1, n2 = n2, n1 % n2
+	#Python <3
+print ("Sem Recursão - MDC =", n1)
+
+#Com Recursão
+def mdc(x, y):
+	if y == 0:
+		return x
+	else:
+		return mdc(y, x % y)
+print ("Com Recursão - MDC =", mdc(n1, n2))
