@@ -7,3 +7,5 @@
  ### [Divisibilidade por 3 e 5](https://github.com/Barbara-BB/Python-Basic/blob/main/c%C3%B3digos/divis%C3%ADvel_por_3and5.py)
  ### [Equação do segundo grau](https://github.com/Barbara-BB/Python-Basic/blob/main/c%C3%B3digos/equa%C3%A7%C3%A3o_segundo_grau.py)
  ### [Os primeiros n números ímpares](https://github.com/Barbara-BB/Python-Basic/blob/main/c%C3%B3digos/primeiros_n_%C3%ADmpares.py)
+ ### [Fatorando um número](https://github.com/Barbara-BB/Python-Basic/blob/main/c%C3%B3digos/fatora%C3%A7%C3%A3o.py)
+ ### [É número primo?](https://github.com/Barbara-BB/Python-Basic/blob/main/c%C3%B3digos/numero_primo.py)
